@@ -6,10 +6,10 @@ The React AI Chatbot is an open-source, customizable chatbot built using React. 
 
 ## Features
 
---**Easy Integration**: Add the chatbot to any React project by simply passing required props.
---**Customizable AI Model**: The default AI model is GPT-3.5-turbo, but users can specify a different model by adjusting the chatOptions object.
---**Customizable UI**: Modify colors and appearance through the chatOptions prop.
---**Responsive Design**: Optimized for various screen sizes.
+- *Easy Integration*: Add the chatbot to any React project by simply passing required props.
+- *Customizable AI Model*: The default AI model is GPT-3.5-turbo, but users can specify a different model by adjusting the chatOptions object.
+- *Customizable UI*: Modify colors and appearance through the chatOptions prop.
+- *Responsive Design*: Optimized for various screen sizes.
 
 ## Installation
 
